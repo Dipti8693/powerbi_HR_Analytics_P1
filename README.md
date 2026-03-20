@@ -2,10 +2,12 @@
 
 ## Project Overveiw
 **Project Title**: HR Analytics
+
 **Level**: Beginner
+
 **Database**: p1_HR_db
 
-This dashboard provides a comprehensive view of the organization’s headcount and demographics, utilizing Power BI's filtering capabilities to break down staff distribution by age, and tenure. It enables HR leaders to quickly assess the current state of the workforce and plan for future scaling or restructuring."
+```This dashboard provides a comprehensive view of the organization’s headcount and demographics, utilizing Power BI's filtering capabilities to break down staff distribution by age, and tenure. It enables HR leaders to quickly assess the current state of the workforce and plan for future scaling or restructuring.```
 
 1.**Set up a HR Analytics Database**: Create and populate a HR Analytics database with the provided data.
 2.**Data Cleaning**: Identify and remove any records with missing or null values.
